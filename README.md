@@ -58,7 +58,7 @@ Completed my B.Tech in Computer Science and Business Systems with a CGPA of **8.
 - Developed an **ML-based therapy efficacy model** for Autism Spectrum Disorder (ASD).  
 - Leveraged **behavioral, cognitive, and demographic data** for adaptive treatment planning.  
 - Created an **interactive Power BI dashboard** for dynamic therapy recommendations.  
-🔗 [View Project](https://github.com/GV-A/Autism-Therapy-Prediction)  
+🔗 [View Project](https://github.com/GV1003/Autism-Therapy-Prediction)  
 
 ---
 
