@@ -21,25 +21,18 @@ Completed my B.Tech in Computer Science and Business Systems with a CGPA of **8.
 ---
 
 ## 💻 I Code In  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 ---
 
 ## 🛠️ Tools & Technologies  
 
 **IDEs:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 **BI/Analytics:**  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 **Documentation:**  
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)  
@@ -56,7 +49,7 @@ Completed my B.Tech in Computer Science and Business Systems with a CGPA of **8.
 - Built a deep learning model to detect **violent activities in videos** for public safety.  
 - Used **Convolutional Neural Networks** for feature extraction and classification.  
 - Designed for **real-time detection** and potential surveillance applications.  
-🔗 [View Project](https://github.com/GV-A/Violence-Detection)  
+🔗 [View Project](https://github.com/GV-A/DETECTION-OF-VIOLENCE)  
 
 ---
 
@@ -74,7 +67,7 @@ Completed my B.Tech in Computer Science and Business Systems with a CGPA of **8.
 - Conducted **in-depth Exploratory Data Analysis (EDA)** of IPL datasets.  
 - Discovered insights into **team performance, player statistics, and match outcomes**.  
 - Built visualizations to analyze **batting and bowling trends**.  
-🔗 [View Project](https://github.com/GV-A/IPL-Analysis)  
+🔗 [View Project](https://github.com/GV-A/IPL-ANALYSIS)  
 
 ---
 
